@@ -19,7 +19,7 @@ QA apaixonado por tecnologia, inovação e Automação
 
 
 <a href="https://linkedin.com/in/pedro-senna-dias" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" height="60" >
 </a>
 
 
