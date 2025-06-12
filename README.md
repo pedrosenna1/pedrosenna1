@@ -8,8 +8,9 @@ QA apaixonado por tecnologia, inovação e Automação
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60" height="60" />
 </p>
 
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrosenna1&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosenna1&layout=compact&theme=radical)
+![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrosenna1&show_icons=true&theme=radical&width=400)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosenna1&layout=compact&theme=radical&width=400)
+
 
 <a href="https://linkedin.com/in/pedro-senna-dias" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
