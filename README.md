@@ -1,9 +1,9 @@
 # Olá, eu sou o Pedro! 👋
 QA apaixonado por tecnologia, inovação e Automação
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original-wordmark.svg" width="80" height="80"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original-wordmark.svg" width="80" height="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original-wordmark.svg" width="100" height="100"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original-wordmark.svg" width="100" height="100"/>
 
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrodev&show_icons=true&theme=radical)
+![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedro-senna-dias&show_icons=true&theme=radical)
 
 <a href="https://linkedin.com/in/pedro-senna-dias" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
