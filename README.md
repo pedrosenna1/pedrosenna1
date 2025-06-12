@@ -1,5 +1,5 @@
 # Olá, eu sou o Pedro! 👋  
-QA apaixonado por tecnologia, inovação e Automação
+## QA apaixonado por tecnologia, inovação e Automação
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" width="60" height="60" />
@@ -19,7 +19,7 @@ QA apaixonado por tecnologia, inovação e Automação
 
 
 <a href="https://linkedin.com/in/pedro-senna-dias" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" height="60" >
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" height="40" >
 </a>
 
 
