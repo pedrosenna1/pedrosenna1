@@ -1,7 +1,7 @@
 # Olá, eu sou o Pedro! 👋
 QA apaixonado por tecnologia, inovação e Automação
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original-wordmark.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original-wordmark.svg" width="80" height="80"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original-wordmark.svg" width="80" height="80"/>
 
 ![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrodev&show_icons=true&theme=radical)
 
