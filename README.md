@@ -9,7 +9,7 @@ QA apaixonado por tecnologia, inovação e Automação
 </p>
 
 ![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrosenna1&show_icons=true&theme=radical&height=400)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosenna1&layout=compact&theme=radical&height=400)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosenna1&layout=compact&theme=radical&height=500)
 
 
 <a href="https://linkedin.com/in/pedro-senna-dias" target="_blank">
