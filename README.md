@@ -22,6 +22,9 @@
   <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" height="40" >
 </a>
 
+Repositórios: 
+  Automação com cypress: https://github.com/pedrosenna1/CypressAutomation
+  Testes unitarios JS + Mocha: https://github.com/pedrosenna1/ecommerceUnitTests
 
 
 <!--
