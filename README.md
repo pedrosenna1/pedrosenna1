@@ -23,7 +23,7 @@
 </a>
 
 Repositórios: 
-  Automação com cypress: https://github.com/pedrosenna1/CypressAutomation
+  Automação com cypress: https://github.com/pedrosenna1/CypressAutomation </b>
   Testes unitarios JS + Mocha: https://github.com/pedrosenna1/ecommerceUnitTests
 
 
