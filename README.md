@@ -1,5 +1,5 @@
 # Olá, eu sou o Pedro! 👋  
-## QA apaixonado por tecnologia, inovação, automação e melhoria contínua de processos. Neste espaço, compartilho projetos práticos, automações e ferramentas que desenvolvi e participei — focados em testes, eficiência e confiabilidade de sistemas.
+## Apaixonado por tecnologia, inovação, automação e melhoria contínua de processos. Neste espaço, compartilho projetos práticos, automações e ferramentas que desenvolvi e participei — focados em testes, eficiência e confiabilidade de sistemas.
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" width="60" height="60" />
