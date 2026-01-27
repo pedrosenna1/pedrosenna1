@@ -6,7 +6,8 @@ Neste espaço compartilho projetos que envolvem:
 - automação de testes e validação de sistemas  
 - análise de dados e construção de métricas confiáveis  
 - aplicação prática de Machine Learning em cenários reais  
-- automação de processos e eficiência operacional  
+- automação de processos e eficiência operacional
+- aplicações/API's em Flask e FastAPI  
 
 Meu foco não é apenas “fazer funcionar”, mas **entender o impacto, medir resultados e escolher soluções tecnicamente sólidas e operacionalmente viáveis**.
 
