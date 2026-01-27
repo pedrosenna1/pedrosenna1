@@ -50,7 +50,7 @@ Meu foco não é apenas “fazer funcionar”, mas **entender o impacto, medir r
 ## 🚀 Projetos em destaque
 
 - **Aplicação Flask + Jinja + Testes (Playwright)**
-  https://github.com/pedrosenna1/SplitHome
+  <p> https://github.com/pedrosenna1/SplitHome </p>
   
 - **Predição de conversão de leads com Machine Learning**  
   https://github.com/pedrosenna1/crm_predict  
