@@ -55,8 +55,8 @@ Meu foco não é apenas “fazer funcionar”, mas **entender o impacto, medir r
 - **Automação de testes com Cypress**  
   https://github.com/pedrosenna1/CypressAutomation  
 
-- **Testes unitários em JavaScript com Mocha**  
-  https://github.com/pedrosenna1/ecommerceUnitTests  
+- **Sistema de Gestão de Pagamentos em streamlit**  
+  https://github.com/pedrosenna1/sistema_pagamentos
 
 ---
 
