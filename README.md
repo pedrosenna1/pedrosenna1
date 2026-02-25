@@ -37,18 +37,6 @@ Meu foco não é apenas “fazer funcionar”, mas **entender o impacto, medir r
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedrosenna1&show_icons=true&theme=radical&rank_icon=none" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosenna1&layout=compact&theme=radical&card_width=400" />
-</p>
-
----
-
 ## 🚀 Projetos em destaque
 
 - **Aplicação Flask + Jinja + Testes (Playwright)**
