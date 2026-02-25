@@ -3,11 +3,13 @@
 Sou um profissional focado em **qualidade, dados e automação**, com forte interesse em **tomada de decisão baseada em dados**, melhoria contínua de processos e uso prático de tecnologia para resolver problemas reais de negócio.
 
 Neste espaço compartilho projetos que envolvem:
-- automação de testes e validação de sistemas  
+- aplicações/API's em Flask e FastAPI
+- projetos de dados
 - análise de dados e construção de métricas confiáveis  
 - aplicação prática de Machine Learning em cenários reais  
 - automação de processos e eficiência operacional
-- aplicações/API's em Flask e FastAPI  
+- aplicações/API's em Flask e FastAPI
+- automação de testes e validação de sistemas 
 
 Meu foco não é apenas “fazer funcionar”, mas **entender o impacto, medir resultados e escolher soluções tecnicamente sólidas e operacionalmente viáveis**.
 
