@@ -56,7 +56,7 @@ Meu foco não é apenas “fazer funcionar”, mas **entender o impacto, medir r
   https://github.com/pedrosenna1/crm_predict
 
 - **Projeto Data Warehouse (DuckDB & Prefect)**
-  https://github.com/pedrosenna1/dw_project
+  <p>https://github.com/pedrosenna1/dw_project</p>
 
 - **Automação de testes com Cypress**  
   https://github.com/pedrosenna1/CypressAutomation  
