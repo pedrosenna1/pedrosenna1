@@ -55,7 +55,7 @@ Meu foco não é apenas “fazer funcionar”, mas **entender o impacto, medir r
 - **Predição de conversão de leads com Machine Learning**  
   https://github.com/pedrosenna1/crm_predict
 
-- **Projeto Data Warehouse (DuckDB & Prefect)**
+- **Projeto Data Warehouse (DuckDB & Prefect & Supabase (Storage/Database)**
   <p>https://github.com/pedrosenna1/dw_project</p>
 
 - **Automação de testes com Cypress**  
