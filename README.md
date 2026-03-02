@@ -54,7 +54,7 @@ Meu foco não é apenas “fazer funcionar”, mas **entender o impacto, medir r
 - Prefect
 - SQL
 - SQLAlchemy ORM
-- 
+- JWT
 ---
 
 ## 🚀 Projetos em destaque
