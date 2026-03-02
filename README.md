@@ -39,6 +39,9 @@ Meu foco não é apenas “fazer funcionar”, mas **entender o impacto, medir r
 
 ## 🚀 Projetos em destaque
 
+- **Aplicação FastAPI(CRUD COMPLETO) + Testes unitários**
+- <p> https://github.com/pedrosenna1/car_api </p>
+
 - **Aplicação Flask + Jinja + Testes (Playwright)**
   <p> https://github.com/pedrosenna1/SplitHome </p>
   
