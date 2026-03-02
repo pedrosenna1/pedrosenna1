@@ -1,15 +1,30 @@
-# Olá, eu sou o Pedro 👋  
+# Olá, eu sou o Pedro 👋
 
-Sou um profissional focado em **qualidade, dados e automação**, com forte interesse em **tomada de decisão baseada em dados**, melhoria contínua de processos e uso prático de tecnologia para resolver problemas reais de negócio.
+Sou Data & Backend Engineer com forte foco em arquitetura de soluções, automação de processos e construção de sistemas orientados a dados.
 
-Neste espaço compartilho projetos que envolvem:
-- aplicações/API's em Flask e FastAPI
-- projetos de dados
-- análise de dados e construção de métricas confiáveis  
-- aplicação prática de Machine Learning em cenários reais  
-- automação de processos e eficiência operacional
-- aplicações/API's em Flask e FastAPI
-- automação de testes e validação de sistemas 
+Atuo desenvolvendo APIs, estruturando pipelines de dados, construindo mini data warehouses e implementando soluções que conectam tecnologia à eficiência operacional.
+
+Meu foco é projetar sistemas que sejam:
+
+Escaláveis
+
+Mensuráveis
+
+Confiáveis
+
+Orientados a impacto de negócio
+
+Tenho especial interesse em:
+
+Engenharia de dados
+
+Desenvolvimento backend com Python
+
+Arquitetura de soluções internas
+
+Automação inteligente de processos
+
+Aplicação prática de Machine Learning
 
 Meu foco não é apenas “fazer funcionar”, mas **entender o impacto, medir resultados e escolher soluções tecnicamente sólidas e operacionalmente viáveis**.
 
@@ -17,11 +32,17 @@ Meu foco não é apenas “fazer funcionar”, mas **entender o impacto, medir r
 
 ## 🧠 Principais áreas de atuação
 
-- Testes automatizados (Web e API)  
-- Qualidade de software e confiabilidade de sistemas  
-- Análise de dados aplicada a decisões de negócio  
-- Machine Learning para priorização, ranking e insights  
-- Automação de processos e melhoria contínua  
+- Backend com FastAPI e Flask
+
+- Engenharia de dados (ETL, modelagem, métricas)
+
+- Data Warehousing
+
+- Automação de processos
+
+- APIs RESTful e autenticação JWT
+
+- Machine Learning aplicado a negócio
 
 ---
 
