@@ -49,6 +49,12 @@ Meu foco não é apenas “fazer funcionar”, mas **entender o impacto, medir r
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"  width="60" height="60" />
 </p>
 
+- FastAPI & Flask
+- Pandas & DuckDB
+- Prefect
+- SQL
+- SQLAlchemy ORM
+- 
 ---
 
 ## 🚀 Projetos em destaque
