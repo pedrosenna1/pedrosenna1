@@ -6,25 +6,18 @@ Atuo desenvolvendo APIs, estruturando pipelines de dados, construindo mini data 
 
 Meu foco é projetar sistemas que sejam:
 
-Escaláveis
-
-Mensuráveis
-
-Confiáveis
-
-Orientados a impacto de negócio
+- Escaláveis
+- Mensuráveis
+- Confiáveis
+- Orientados a impacto de negócio
 
 Tenho especial interesse em:
 
-Engenharia de dados
-
-Desenvolvimento backend com Python
-
-Arquitetura de soluções internas
-
-Automação inteligente de processos
-
-Aplicação prática de Machine Learning
+- Engenharia de dados
+- Desenvolvimento backend com Python
+- Arquitetura de soluções internas
+- Automação inteligente de processos
+- Aplicação prática de Machine Learning
 
 Meu foco não é apenas “fazer funcionar”, mas **entender o impacto, medir resultados e escolher soluções tecnicamente sólidas e operacionalmente viáveis**.
 
